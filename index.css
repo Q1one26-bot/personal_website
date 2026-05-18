@@ -1,3 +1,7 @@
-background {
+body {
     background-color: black;
+    color:blanchedalmond;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 20px;
 }
